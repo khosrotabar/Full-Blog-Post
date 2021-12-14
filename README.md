@@ -2,9 +2,9 @@
 [https://full-blog-post.vercel.app/](https://full-blog-post.vercel.app/)
 
 ### Features:
-- Post blogs to site by owner
+- Post blogs on the site by owner
 - Contact with owner by viewers
-- Filter feature posts in main page
+- Filter new posts in main page
 - All posts page
 
 ### Tools used:
@@ -19,6 +19,6 @@
 
 ### How to use in vs code:
 ```bash
-npm run install
+npm install
 npm run dev
 ```
