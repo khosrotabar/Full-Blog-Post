@@ -17,8 +17,8 @@
 - React syntax highlighter
 - Vercel to deploy
 
-### How to use:
----bash
+### How to use in vs code:
+```bash
 npm run install
 npm run dev
----
+```
